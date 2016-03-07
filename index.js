@@ -217,7 +217,9 @@ var charmap = {
     'ż': "z",
     'Ž': "Z",
     'ž': "z",
-    'ſ': "s"
+    'ſ': "s",
+    '&': "and",
+    '_': "-"
 };
 
 var _slugify = function(s) {
