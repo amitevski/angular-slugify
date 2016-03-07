@@ -1,6 +1,6 @@
 {
   "name": "node-angular-slugify",
-  "version": "0.0.0",
+  "version": "1.0.1",
   "description": "use the angular-slugify module in node.js",
   "main": "index.js",
   "directories": {
